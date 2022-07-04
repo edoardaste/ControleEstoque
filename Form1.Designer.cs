@@ -81,7 +81,7 @@ namespace PetLife
             // tabPage2
             // 
             this.tabPage2.BackColor = System.Drawing.Color.Transparent;
-            this.tabPage2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("tabPage2.BackgroundImage")));
+            this.tabPage2.BackgroundImage = global::PetLife.Properties.Resources.Sem_título3;
             this.tabPage2.Controls.Add(this.textQuantidade);
             this.tabPage2.Controls.Add(this.label9);
             this.tabPage2.Controls.Add(this.textCodigoProd);
@@ -245,7 +245,7 @@ namespace PetLife
             // 
             // buttonPesquisar
             // 
-            this.buttonPesquisar.Image = ((System.Drawing.Image)(resources.GetObject("buttonPesquisar.Image")));
+            this.buttonPesquisar.Image = global::PetLife.Properties.Resources.search1;
             this.buttonPesquisar.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.buttonPesquisar.Location = new System.Drawing.Point(91, 14);
             this.buttonPesquisar.Name = "buttonPesquisar";
@@ -285,7 +285,7 @@ namespace PetLife
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Image = ((System.Drawing.Image)(resources.GetObject("button4.Image")));
+            this.button4.Image = global::PetLife.Properties.Resources.broom1;
             this.button4.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button4.Location = new System.Drawing.Point(773, 232);
             this.button4.Name = "button4";
@@ -356,7 +356,7 @@ namespace PetLife
             // BtnAtualizar
             // 
             this.BtnAtualizar.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnAtualizar.Image = ((System.Drawing.Image)(resources.GetObject("BtnAtualizar.Image")));
+            this.BtnAtualizar.Image = global::PetLife.Properties.Resources.updated1;
             this.BtnAtualizar.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.BtnAtualizar.Location = new System.Drawing.Point(773, 21);
             this.BtnAtualizar.Name = "BtnAtualizar";
@@ -378,7 +378,7 @@ namespace PetLife
             // BtnExcluir
             // 
             this.BtnExcluir.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnExcluir.Image = ((System.Drawing.Image)(resources.GetObject("BtnExcluir.Image")));
+            this.BtnExcluir.Image = global::PetLife.Properties.Resources.delete3;
             this.BtnExcluir.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.BtnExcluir.Location = new System.Drawing.Point(773, 92);
             this.BtnExcluir.Name = "BtnExcluir";
@@ -393,7 +393,7 @@ namespace PetLife
             // 
             this.button2.Cursor = System.Windows.Forms.Cursors.AppStarting;
             this.button2.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
+            this.button2.Image = global::PetLife.Properties.Resources.show1;
             this.button2.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button2.Location = new System.Drawing.Point(773, 162);
             this.button2.Name = "button2";
@@ -419,7 +419,7 @@ namespace PetLife
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImage = global::PetLife.Properties.Resources.backgroundFundo;
             this.ClientSize = new System.Drawing.Size(1003, 432);
             this.Controls.Add(this.tabControl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
